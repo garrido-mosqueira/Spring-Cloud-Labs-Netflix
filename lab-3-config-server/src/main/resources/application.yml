@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/fegm22/Training
+          uri: https://github.com/garrido-mosqueira/Training
           searchPaths: Udemy/SpringCloud-Labs/config-server-repository/lab-3-config-client,Udemy/SpringCloud-Labs/config-server-repository/lab-4-config-eureka
-          username: fegm22
+          username: garrido-mosqueira
           password: 12345678
